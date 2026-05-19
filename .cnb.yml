@@ -77,7 +77,7 @@ main:
           # if: |
           #   [ "$CNB_COMMIT_MESSAGE_TITLE" = "BUILD" ]
           image: node:22
-          script: npx edgeone pages deploy /dist --name ssnav --token $EDGEONE_PAGES_API_TOKEN
+          script: npx edgeone pages deploy ./dist --name ssnav --token $EDGEONE_PAGES_API_TOKEN
 
 
 
