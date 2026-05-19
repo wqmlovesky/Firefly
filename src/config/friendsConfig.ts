@@ -5,7 +5,7 @@ import type { FriendLink, FriendsPageConfig } from "../types/config";
 // 友链页面配置
 export const friendsPageConfig: FriendsPageConfig = {
 	// 页面标题，如果留空则使用 i18n 中的翻译
-	title: "",
+	title: "友链墙",
 
 	// 页面描述文本，如果留空则使用 i18n 中的翻译
 	description: "",
@@ -26,7 +26,7 @@ export const friendsConfig: FriendLink[] = [
 		title: "Hyde Blog",
 		imgurl: "/assets/avatar.avif",
 		desc: "人心中的成见是一座大山~",
-		siteurl: "https://teek.seasir.top/",
+		siteurl: "https://seasir.top/",
 		tags: ["Astro"],
 		weight: 10, // 权重，数字越大排序越靠前
 		enabled: true, // 是否启用
@@ -92,7 +92,7 @@ export const friendsConfig: FriendLink[] = [
 			"https://nannax.top/upload/IMG_20260412_164454.ico",
 		desc: "安安静静地存在，就已经很好了。",
 		siteurl: "https://www.nannax.top/",
-		tags: [""],
+		// tags: [""],
 		weight: 8,
 		enabled: true,
 	},
@@ -102,7 +102,7 @@ export const friendsConfig: FriendLink[] = [
 			"https://yubendan.com/_astro/avatar.DVGZ46-Q_1TAarN.webp",
 		desc: "内心充盈者，独行也如众。",
 		siteurl: "https://yubendan.com/",
-		tags: [""],
+		// tags: [""],
 		weight: 8,
 		enabled: true,
 	},

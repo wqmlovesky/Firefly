@@ -1,7 +1,7 @@
 ---
 title: 年轻的时候是旅游重要还是攒钱重要？
 published: 2026-04-30
-pinned: true
+pinned: false
 description: "年轻的时候是旅游重要还是攒钱重要？"
 image: ./DaguGlacier.webp
 slug: /travel
