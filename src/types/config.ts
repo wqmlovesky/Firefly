@@ -437,7 +437,8 @@ export type WidgetComponentType =
 	| "calendar"
 	| "music"
 	| "schedule"
-	| "relationship";
+	| "relationship"
+	| "quoteOfTheDay";
 
 // 恋爱计时小组件配置
 export type RelationshipConfig = {

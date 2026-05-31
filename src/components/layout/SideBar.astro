@@ -11,6 +11,7 @@ import SidebarTOC from "@/components/widget/SidebarTOC.astro";
 import SiteStats from "@/components/widget/SiteStats.astro";
 import Tags from "@/components/widget/Tags.astro";
 import RelationshipTimer from "@/components/widget/RelationshipTimer.astro";
+import QuoteOfTheDay from "@/components/widget/QuoteOfTheDay.astro";
 
 import { sidebarLayoutConfig } from "@/config";
 import type {
@@ -54,6 +55,7 @@ const componentMap = {
 	music: Music,
 	schedule: Schedule,
 	relationship: RelationshipTimer,
+	quoteOfTheDay: QuoteOfTheDay,
 } satisfies Record<WidgetComponentType, typeof Profile>;
 
 // 获取侧边栏位置
