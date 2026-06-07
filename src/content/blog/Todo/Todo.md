@@ -1,7 +1,7 @@
 ---
 title: 待办
 published: 2026-05-09
-pinned: false
+pinned: true # 固定在顶部
 description: "基于Firefly主题二次修改的待办事项"
 image: api
 slug: /todo
@@ -20,9 +20,8 @@ draft: false
 ## BUG
 
 - [x] 修复生产环境下顶部滚动条刷新页面不显示
+- [x] 自定义Footer页面生产环境不显示主题版本号，本地环境显示
 - [ ] 浏览量一直加载中...
-- [ ] 自定义Footer页面生产环境不显示主题版本号，本地环境显示
-
 ## 优化
 
 - [x] 右侧滚动条优化，和[teek](https://teek.seasir.top/)保持一致
