@@ -91,7 +91,7 @@ main:
         - name: 👉 同步仓库到github
           image: tencentcom/git-sync
           settings:
-            branch: master
+            branch: main
             auth_type: https
             username: ${GIT_USERNAME}
             password: ${GIT_ACCESS_TOKEN}
