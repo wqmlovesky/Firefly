@@ -26,22 +26,14 @@ export interface DiaryItem {
 const diaryData: DiaryItem[] = [
 	{
 		id: 1,
-		content: "📍𝘾𝙝𝙪𝙖𝙣𝙓𝙞丨川西\n勇敢的人先享受高反再享受世界🗺️✨🤣",
-		date: "2026-05-01T10:30:00Z",
-		location: "阿坝藏族羌族自治州·四姑娘山景区",
+		content: "📍zhejiang丨浙江\n待定🗺️✨🤣",
+		date: "2026-07-22T10:30:00Z",
+		location: "待定",
 		locationUrl: "https://j.map.baidu.com/cf/2M",
 		images: [
-			"https://i.postimg.cc/Z54VY6DF/1040g2sg31fatmlv6me7g5ndqintg8sfbhhno2so-nd-dft-wlteh-webp-3.webp",
-			"https://i.postimg.cc/52bn98k8/1040g2sg31fatmlv6me805ndqintg8sfbee0hv3o-nd-dft-wlteh-webp-3.webp",
-			"https://i.postimg.cc/zG80DTPy/1040g2sg31fatmlv6me905ndqintg8sfbdnvlebo-nd-dft-wlteh-webp-3.webp",
-			"https://i.postimg.cc/rwMQy5Yy/1040g2sg31fatmlv6me9g5ndqintg8sfbkfu6ja0-nd-dft-wlteh-webp-3.webp",
-			"https://i.postimg.cc/3xYnr2bw/1040g2sg31fatmlv6meb05ndqintg8sfbe4ho350-nd-dft-wlteh-webp-3.webp",
-			"https://i.postimg.cc/zG80DTPG/1040g3qg31vmkbstgjq0g4ark0mecm6c2ogerg5o-nd-dft-wlteh-webp-3.webp",
-			"https://i.postimg.cc/kXxTdTwB/1040g3qg31vmkbstgjq6g4ark0mecm6c2hceerd8-nd-dft-wlteh-webp-3.webp",
-			"https://i.postimg.cc/g2mNc3BL/1040g3qg31vmkgeuuia104ark0mecm6c2ensa8n8-nd-dft-wlteh-webp-3.webp",
-			"https://i.postimg.cc/dt85K5ny/1040g3qg31vmkgeuuia304ark0mecm6c27chnl9g-nd-dft-wlteh-webp-3.webp",
+			"",
 		],
-		tags: ["川西", "高反", "世界"],
+		tags: ["待定", "待定", "待定"],
 		mood: "😊",
 		imageDisplay: {
 			type: "grid", // 'carousel' 轮播模式 | 'grid' 网格布局模式
@@ -55,7 +47,7 @@ const diaryData: DiaryItem[] = [
 		id: 1,
 		content: "轮播示例",
 		date: "2026-05-01T10:30:00Z",
-		// location: "阿坝藏族羌族自治州·四姑娘山景区",
+		// location: "待定",
 		locationUrl: "https://j.map.baidu.com/cf/2M",
 		images: [
 			"https://tc.alcy.cc/tc/20260429/91e113df15bffb3f8bdb26815a657eb2.webp",

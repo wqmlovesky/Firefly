@@ -6,17 +6,17 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Hyde Blog",
+	title: "Damon Blog",
 
 	// 站点副标题
-	subtitle: "人心中的成见是一座大山",
+	subtitle: "天黑路滑,社会复杂",
 
 	// 站点 URL
-	site_url: "https://seasir.top",
+	site_url: "https://qiaomin.wang",
 
 	// 站点描述
 	description:
-		"Hyde 是一个记录折腾博客搭建教程、分享教程、随笔感悟，技术探索与生活记录，都在这里。",
+		"Damon 是一个记录折腾博客搭建教程、分享教程、随笔感悟，技术探索与生活记录，都在这里。",
 
 	// 站点关键词
 	keywords: [
@@ -90,7 +90,7 @@ export const siteConfig: SiteConfig = {
 			alt: "🍀",
 		},
 		// 导航栏标题
-		title: "Hyde",
+		title: "Damon",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: true,
 		// 导航菜单对齐方式，left：左对齐，center：居中
@@ -102,7 +102,7 @@ export const siteConfig: SiteConfig = {
 	},
 
 	// 站点开始日期，用于统计运行天数
-	siteStartDate: "2026-04-27",
+	siteStartDate: "2026-07-22",
 
 	// 站点时区（IANA 时区字符串），用于格式化bangumi、rss里的构建日期时间等等..
 	// 示例："Asia/Shanghai", "UTC", 如果为空，则按照构建服务器的时区进行时区转换
@@ -111,9 +111,9 @@ export const siteConfig: SiteConfig = {
 	// 页面开关配置 - 控制特定页面的访问权限，设为false会返回404并自动隐藏对应的导航栏菜单项
 	pages: {
 		// 友链页面开关
-		friends: true,
+		friends: false,
 		// 打赏页面开关
-		sponsor: true,
+		sponsor: false,
 		// 留言板页面开关，需要配置评论系统
 		guestbook: true,
 		// 番组计划页面开关，含追番、游戏、书籍和音乐
@@ -135,14 +135,14 @@ export const siteConfig: SiteConfig = {
 	diary: {
 		// 默认头像
 		defaultAvatar:
-			"https://i.postimg.cc/7YLVJqnp/wei-xin-tu-pian-2026-05-07-020150-883.jpg",
+			"https://pub-00fb2051f4fa476283169bfe78f43ead.r2.dev/19b3eb52d798517749101b7d8c65c24a.jpg",
 	},
 
 	// 说说页面封面配置（微信朋友圈风格）
 	momentsCover: {
 		enable: true,
 		image:
-			"https://ph.0824.uk/file/博客横屏封面/1780635498430_mmexport1774845895097.jpg",
+			"https://pub-00fb2051f4fa476283169bfe78f43ead.r2.dev/123456.jpg",
 		// 追番页面开关
 		anime: true,
 	},

@@ -123,25 +123,25 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		children: [
 			{
 				name: "GitHub",
-				url: "https://github.com/Seasir-Hyde/Firefly-hyde",
+				url: "https://qiaomin.wang",
 				external: true,
 				icon: "fa7-brands:github",
 			},
 			{
 				name: "Gitee",
-				url: "https://gitee.com/SeasirHyde",
+				url: "https://qiaomin.wang",
 				external: true,
 				icon: "fa7-brands:gitee",
 			},
 			{
 				name: "CNB",
-				url: "https://cnb.cool/W3C/Hyde/Firefly-hyde",
+				url: "https://qiaomin.wang",
 				external: true,
 				icon: "tdesign:logo-cnb-filled",
 			},
 			{
 				name: "个人主页",
-				url: "https://home.seasir.top/",
+				url: "https://qiaomin.wang",
 				external: true,
 				icon: "material-symbols:page-footer-outline",
 			},

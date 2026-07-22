@@ -84,7 +84,7 @@ main:
         #     auth_type: https
         #     username: ${GITEE_USERNAME}
         #     password: ${GITEE_ACCESS_TOKEN}
-        #     target_url: https://gitee.com/SeasirHyde/teek-hyde.git
+        #     target_url: https://qiaomin.wang
         #     # git_email: 'github-actions[bot]@users.noreply.github.com'
 
         # 同步仓库到github
@@ -95,7 +95,7 @@ main:
             auth_type: https
             username: ${GITHUB_USERNAME}
             password: ${GITHUB_ACCESS_TOKEN}
-            target_url: https://github.com/Seasir-Hyde/Firefly-hyde.git
+            target_url: https://qiaomin.wang
             # git_email: 'github-actions[bot]@users.noreply.github.com'
 
 
@@ -126,7 +126,7 @@ main:
               > **提交信息:** $CNB_COMMIT_MESSAGE_TITLE            
               > **提交者:** $CNB_COMMITTER            
               > **仓库地址:** [$CNB_REPO_URL_HTTPS]($CNB_REPO_URL_HTTPS)            
-              > **我的网站:** [seasir.top](https://seasir.top/)
+              > **我的网站:** [seasir.top](https://sqiaomin.wang)
 
         - name: 📢 发布通知到飞书
           image: tencentcom/feishu-message
@@ -151,7 +151,7 @@ main:
                                       "content": "访问网站 :爱慕:",
                                       "tag": "lark_md"
                                   },
-                                  "url": "https://seasir.top/",
+                                  "url": "https://qiaomin.wang/",
                                   "type": "default",
                                   "value": {}
                               }
