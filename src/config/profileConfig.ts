@@ -24,13 +24,13 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
-			url: "https://github.com/Seasir-Hyde/Firefly-hyde",
+			url: "https://qiaomin.wangg",
 			showName: false,
 		},
 		{
 			name: "Email",
 			icon: "fa7-solid:envelope",
-			url: "mailto:seasir666@gmail.com",
+			url: "12345@gmail.com",
 			showName: false,
 		},
 		{
@@ -42,13 +42,13 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "cnb",
 			icon: "tdesign:logo-cnb-filled",
-			url: "https://cnb.cool/W3C/Hyde/Firefly-hyde",
+			url: "https://qiaomin.wangg",
 			showName: false,
 		},
 		{
 			name: "Telegram",
 			icon: "fa7-brands:telegram",
-			url: "https://t.me/seasir_Bot",
+			url: "https://qiaomin.wangg",
 			showName: false,
 		},
 	],
