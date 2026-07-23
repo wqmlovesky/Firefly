@@ -125,10 +125,10 @@ export const siteConfig: SiteConfig = {
 		// 日记页面开关
 		diary: true,
 		// 项目页面开关
-		projects: true,
+		projects: false,
 		// 时间线页面开关
-		timeline: true,
-		skills: true,
+		timeline: false,
+		skills: false,
 		anime: true,
 	},
 	// 日记页面配置

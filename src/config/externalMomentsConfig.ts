@@ -7,7 +7,7 @@ export const externalMomentsConfig = {
 	enable: true,
 
 	// GitHub Gist ID（创建 Gist 后从 URL 中获取）
-	gistId: "ee329e8726b8d77b68f23c602ae76f8c",
+	gistId: "2479ae420f818176207173aa68cd0935",
 
 	// Gist 中的文件名
 	fileName: "moments.json",
