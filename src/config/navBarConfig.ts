@@ -107,7 +107,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
     // 
 	// 		{
 	// 			name: "统计",
-	// 			url: "https://umami.seasir.top/share/cp5SqrNUOxbulLZt/seasir.top",
+	// 			url: "https://umami-nine-swart-84.vercel.app/share/wwI8dRYjS4BVKOQr",
 	// 			external: true,
 	// 			icon: "fa7-solid:chart-simple",
 	// 		},
