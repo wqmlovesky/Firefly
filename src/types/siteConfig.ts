@@ -95,7 +95,7 @@ export type SiteConfig = {
 	// 日记页面配置
 	diary: {
 		// 默认头像
-		defaultAvatar: "https://i.postimg.cc/7YLVJqnp/wei-xin-tu-pian-2026-05-07-020150-883.jpg";
+		defaultAvatar: "https://pub-00fb2051f4fa476283169bfe78f43ead.r2.dev/19b3eb52d798517749101b7d8c65c24a.jpg";
 	};
 	// 说说页面封面配置（微信朋友圈风格）
 	momentsCover?: {
