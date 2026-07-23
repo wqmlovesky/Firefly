@@ -91,28 +91,28 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 	});
 
 	// 关于及其子菜单
-	links.push({
-		name: "其他",
-		url: "/other/",
-		icon: "material-symbols:more-horiz",
-		children: [
-			// 项目
-			LinkPresets.Projects,
-
-			// 时间线
-			LinkPresets.Timeline,
-
-			// 技能
-			LinkPresets.Skills,
-
-			{
-				name: "统计",
-				url: "https://umami.seasir.top/share/cp5SqrNUOxbulLZt/seasir.top",
-				external: true,
-				icon: "fa7-solid:chart-simple",
-			},
-		],
-	});
+	// links.push({
+	// 	name: "其他",
+	// 	url: "/other/",
+	// 	icon: "material-symbols:more-horiz",
+	// 	children: [
+	// 		// 项目
+	// 		LinkPresets.Projects,
+    // 
+	// 		// 时间线
+	// 		LinkPresets.Timeline,
+    // 
+	// 		// 技能
+	// 		LinkPresets.Skills,
+    // 
+	// 		{
+	// 			name: "统计",
+	// 			url: "https://umami.seasir.top/share/cp5SqrNUOxbulLZt/seasir.top",
+	// 			external: true,
+	// 			icon: "fa7-solid:chart-simple",
+	// 		},
+	// 	],
+	// });
 
 	// 自定义导航栏链接
 	links.push({
