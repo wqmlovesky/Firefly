@@ -22,7 +22,7 @@ export const coverImageConfig: CoverImageConfig = {
 	randomCoverImage: {
 		// 随机封面图功能开关
 		enable: true,
-		// 封面图API列表
+		// 随机图封面图API列表
 		apis: [
 			"https://api.timelessq.com/bing/random",
 		],
