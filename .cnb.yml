@@ -126,7 +126,7 @@ main:
               > **提交信息:** $CNB_COMMIT_MESSAGE_TITLE            
               > **提交者:** $CNB_COMMITTER            
               > **仓库地址:** [$CNB_REPO_URL_HTTPS]($CNB_REPO_URL_HTTPS)            
-              > **我的网站:** [seasir.top](https://sqiaomin.wang)
+              > **我的网站:** [qiaomin.wang](https://qiaomin.wang)
 
         - name: 📢 发布通知到飞书
           image: tencentcom/feishu-message
