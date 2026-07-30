@@ -2,7 +2,7 @@ import type { RelationshipConfig } from "../types/RelationshipConfig";
 
 export const relationshipConfig: RelationshipConfig = {
 	// 博客开始日期
-	startDate: "2020-07-10",
+	startDate: "2020-07-11",
 	// 博客名称
 	name1: "---------老王",
 	name2: "婷婷---------",
