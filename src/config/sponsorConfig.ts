@@ -61,10 +61,10 @@ export const sponsorConfig: SponsorConfig = {
 	sponsors: [
 		// 示例：已实名打赏者
 		{
-			name: "Damon",
+			name: "Hyde",
 			avatar: "/favicon/favicon.ico",
 			amount: "¥200",
-			date: "2026-07-26",
+			date: "2026-04-28",
 		},
 
 		// 示例：匿名打赏者

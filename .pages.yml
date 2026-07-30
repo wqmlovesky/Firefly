@@ -147,7 +147,7 @@ content:
           - name: comment
             label: 启用评论
             type: boolean
-            default: false
+            default: true
 
           - name: password
             label: 文章密码
