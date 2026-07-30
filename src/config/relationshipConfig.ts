@@ -10,5 +10,5 @@ export const relationshipConfig: RelationshipConfig = {
 	avatar1: "https://pub-00fb2051f4fa476283169bfe78f43ead.r2.dev/123.jpg",
 	avatar2: "https://pub-00fb2051f4fa476283169bfe78f43ead.r2.dev/456.jpg",
 	// 小组件标题
-	title: "我们在一起已经,
+	title: "我们在一起已经",
 };
